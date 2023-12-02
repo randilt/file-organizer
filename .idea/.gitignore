@@ -1,0 +1,11 @@
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore IDE-specific files
+.idea/
+*.iml
+
+# Ignore dependency directories
+node_modules/
+venv/
